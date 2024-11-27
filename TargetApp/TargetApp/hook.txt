@@ -1,0 +1,3 @@
+DLL loaded.
+Hook success!
+Dll unloaded
